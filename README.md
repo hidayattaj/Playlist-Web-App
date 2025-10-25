@@ -1,3 +1,6 @@
+![Website Screenshot](assets/picHome.png)
+![Website Screenshot](assets/picAddSong.png)
+
 My Playlist Web App
 Developed a full-stack web application that allows users to manage music playlist. The app enables users to add, view, and delete songs with a clean and responsive interface. Built with a modular architecture and RESTful API integration, the project demonstrates proficiency in modern web development practices, including state management, component-based design, and database operations.
 
